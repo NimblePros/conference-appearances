@@ -170,6 +170,8 @@ Sticky notes help with triggering the conversations during EventStorming. We use
 
 ### The Grammar
 
+![The EventStorming Grammar - Drawn out](./eventstorming-grammar.png)
+
 1. Given some needed information (light green sticky notes - read models)
 2. As a user (little yellow sticky notes - users/personas/roles)
 3. Do something (light blue sticky notes - commands)
@@ -182,6 +184,8 @@ Sticky notes help with triggering the conversations during EventStorming. We use
 ...
 
 In System Design or Refactoring, you may have a bunch of events (orange sticky notes) that are related to a concept. It may make sense to group them with an aggregate (yellow sticky note).
+
+![Showing an eCommerce checkout example of aggregates using Cart, Customer, and Order](./aggregates.png)
 
 ---
 
@@ -196,6 +200,10 @@ Some vending machines were shown to help get people thinking:
 - A car vending machine! (Carvana)
 - Also mentioned the Sprinkles Cupcakes ATMs in Vegas that will take a cupcake, box it, and vend it!
 
+These happened:
+
+![Big Picture EventStorming of a Vending Machine - Group 1](./big-picture-1.png)
+![Big Picture EventStorming of a Vending Machine - Group 2](./big-picture-2.png)
 ---
 
 ## How EventStorming Sessions can Flow
@@ -238,7 +246,11 @@ Get into groups and identify a process to explore based on conversations in Big 
 
 One group got into restocking a vending machine.
 
+![EventStorming the restocking of a vending machine](./restocking.png)
+
 Another group explored payment processing.
+
+![EventStorming the payment processing of a vending machine for the credit card scenario](./payment-processing.png)
 
 ---
 
